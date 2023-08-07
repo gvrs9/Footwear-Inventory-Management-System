@@ -1,0 +1,39 @@
+#div{
+    border-radius: 5px;
+    background-color: #E3C9CEFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:40%;
+    height: 60%;
+}
+
+label{
+    color: #9FC131FF;
+}
+
+.c1{
+    text-align: center;
+}
+
+.c4{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-size: 16px;
+    background-color: black;
+}
+
+.c4:hover{
+    background-color: darkmagenta;
+}
+
+.c5{
+    color: #755139FF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+
+.c5:hover{
+    background-color: #F2EDD7FF;
+}
